@@ -1,0 +1,30 @@
+main {
+    background-color: beige;
+    text-align: center;
+    border: 5px double pink;
+    border-radius: 10px;
+}    
+
+#add {
+    background-color: pink;
+    border: 1px solid;
+    height: 30px;
+    border-radius: 10px;
+}
+
+table {
+    width: 90%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 8px 12px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+
+.table-responsive {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
